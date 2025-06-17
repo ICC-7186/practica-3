@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"persona.asociaciones","l":"Alergia"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"persona.asociaciones","l":"Direccion"},{"p":"persona.enumeraciones","l":"Estado"},{"p":"persona.enumeraciones","l":"Genero"},{"p":"persona.asociaciones","l":"Hobby"},{"p":"persona","l":"Persona"}];updateSearchResults();

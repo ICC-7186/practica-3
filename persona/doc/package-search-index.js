@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"persona"},{"l":"persona.asociaciones"},{"l":"persona.enumeraciones"}];updateSearchResults();
